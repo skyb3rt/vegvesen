@@ -1,8 +1,6 @@
-#VEGVESEN
-
+# VEGVESEN
 Enkel app for å hente kjøretøyinformasjon fra vegvesen.no
 
 
-##avhengigheter:
-
+## avhengigheter:
 api key må fylles ut i .env filen
