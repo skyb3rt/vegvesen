@@ -16,12 +16,6 @@ load_dotenv()
 VEGVESEN_API_KEY = os.environ.get("VEGVESEN_API_KEY")
 VEGVESEN_URL = os.environ.get("VEGVESEN_URL")
 
-# JU94519 pappa
-# ZH16781 mamma
-# d924034 min
-# DN14328 ida
-
-
 kjennemerker = ["DP24034", "DN14328", "ZH16781", "HJ74037", "DF81666"]
 
 
